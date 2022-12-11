@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "": [
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves1" },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves2" },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves3" },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves4" },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves5" },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves6" },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves7" },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves8" },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves1", "y": 90 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves2", "y": 90 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves3", "y": 90 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves4", "y": 90 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves5", "y": 90 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves6", "y": 90 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves7", "y": 90 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves8", "y": 90 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves1", "y": 180 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves2", "y": 180 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves3", "y": 180 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves4", "y": 180 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves5", "y": 180 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves6", "y": 180 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves7", "y": 180 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves8", "y": 180 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves1", "y": 270 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves2", "y": 270 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves3", "y": 270 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves4", "y": 270 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves5", "y": 270 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves6", "y": 270 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves7", "y": 270 },
+			{ "model": "cherryblossomgrotto:block/cherry_blossom_leaves8", "y": 270 }
+		]
+    }
+}
