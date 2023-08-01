@@ -1,0 +1,38 @@
+{
+    "variants": {
+        "": [
+			{ "model": "eastwardjourneys:block/maple/maple_leaves1" },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves2" },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves3" },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves4" },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves5" },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves6" },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves7" },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves8" },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves1", "y": 90 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves2", "y": 90 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves3", "y": 90 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves4", "y": 90 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves5", "y": 90 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves6", "y": 90 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves7", "y": 90 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves8", "y": 90 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves1", "y": 180 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves2", "y": 180 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves3", "y": 180 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves4", "y": 180 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves5", "y": 180 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves6", "y": 180 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves7", "y": 180 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves8", "y": 180 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves1", "y": 270 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves2", "y": 270 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves3", "y": 270 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves4", "y": 270 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves5", "y": 270 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves6", "y": 270 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves7", "y": 270 },
+			{ "model": "eastwardjourneys:block/maple/maple_leaves8", "y": 270 }
+		]
+    }
+}

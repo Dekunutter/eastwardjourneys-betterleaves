@@ -1,0 +1,6 @@
+{
+    "parent":"block/snowy_leaves",
+    "textures": {
+        "0":"eastwardjourneys:block/water_fir_leaves"
+    }
+}

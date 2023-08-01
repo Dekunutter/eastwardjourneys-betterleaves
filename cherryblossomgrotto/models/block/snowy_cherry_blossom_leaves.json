@@ -1,6 +1,0 @@
-{
-    "parent":"block/snowy_leaves",
-    "textures": {
-        "0":"cherryblossomgrotto:block/cherry_blossom_leaves"
-    }
-}
