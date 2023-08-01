@@ -1,4 +1,4 @@
-# cherryblossomgrotto-betterleaves
+# Eastward Journeys With Better Leaves
 Asset files for Motschen's Better Leaves resourcepack, making the Eastward Journeys mod compatible.
 
 To use these assets, navigate to your resourcepack for Motschen's Better Leaves and pop the eastwardjourneys folder into the assets directory.
